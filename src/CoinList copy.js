@@ -52,7 +52,7 @@ const CoinList = () => {
 
     fetchData();
 
-    const intervalId = setInterval(fetchData, 300000);
+    const intervalId = setInterval(fetchData, 3000);
 
     return () => clearInterval(intervalId);
   }, []);

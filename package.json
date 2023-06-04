@@ -40,5 +40,6 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.10"
-  }
+  },
+  "homepage": "https://heroic-clafoutis-0b7ea6.netlify.app/"
 }
